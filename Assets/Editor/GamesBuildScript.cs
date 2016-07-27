@@ -21,7 +21,7 @@ public class OmiyaGamesBuildScript
 		PerformLinux64Build();
 		
 		//PerformIosBuild();
-		PerformAndroidBuild();
+		//PerformAndroidBuild();
 		//PerformWp8Build();
 	}
 	
